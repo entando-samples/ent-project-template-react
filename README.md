@@ -1,3 +1,7 @@
+# Entando Project Template for React Micro frontends
+
+This is a simple template that can be used to create, build and deploy react micro frontends to Entando ACP.
+
 # Deployment and installation
 
 With this configuration, you can use the ent cli (https://dev.entando.org/next/docs/reference/entando-cli.html) to perform the full deployment sequence:
