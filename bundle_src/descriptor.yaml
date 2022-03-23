@@ -1,0 +1,5 @@
+code: ent-prj-tmpl-react-bundle
+description: Template for ent react projects
+components:
+  widgets:
+    - ui/widgets/widgets-dir/react_app_folder_name/react_app_bundle_descriptor_name
