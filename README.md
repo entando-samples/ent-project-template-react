@@ -21,6 +21,8 @@ With this configuration, you can use the ent cli (https://dev.entando.org/next/d
 4. Install the bundle via 1) App Builder, 2) `ent prj install`, or 3) `ent prj install --conflict-strategy=OVERRIDE` on subsequent installs.
 5. Iterate steps 1-4 to publish new versions.
 
+## Refer to this [Readme](https://github.com/entando-samples/ent-project-template-react/tree/master/ui/widgets/widgets-dir) to learn further about React app setup.
+
 ## Local testing of the project
 
 You can use this command from the application folder to run the local stack

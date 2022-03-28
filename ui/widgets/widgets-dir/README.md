@@ -33,3 +33,7 @@ And inside the example.ftl file add this:
 ```
 
 Replace `cards-widget` with the name of your react app.
+
+# While using an existing React App
+
+Follow the above steps inside your existing react app, after you copy the app inside this current directory. And make sure that the `package.json` file of your app has the `build` and `start` keys under the `scripts` section.
